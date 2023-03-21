@@ -1,0 +1,52 @@
+.container{
+        margin: 0;
+        padding: 0;
+        background-color:navy;
+        color: aliceblue;
+        height: 100vh;
+        width: 100vh;
+}
+
+
+
+
+.main{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    
+}
+
+.try{
+    background-color:aqua;
+
+}
+
+.contact{
+    background-color:blue;
+    color: aliceblue;
+}
+
+    .h4{
+        color: chocolate;
+    }
+
+
+.h1{
+        color: blue;
+}
+
+
+.button{
+    background-color: blue;
+    color: aliceblue;
+    width: 100px;
+    height: 30px;
+    border-radius: 10%;
+
+}
+
+
+
+
+
